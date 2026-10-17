@@ -1,0 +1,9 @@
+{
+  "name": "aetherfall-peer-server",
+  "version": "1.0.0",
+  "description": "Tiny introduction server for Aetherfall Quick connect",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "peer": "^1.0.2" }
+}
